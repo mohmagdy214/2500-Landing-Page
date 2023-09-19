@@ -1,7 +1,11 @@
 body{
-    background-color: #E9EDF4;
     font-family: 'Jost', sans-serif;
 }
+
+.bg-banner{
+    background-color: #E9EDF4;
+}
+
 .nav-link{
     font-size: 18px;
     font-weight: 600;
@@ -47,4 +51,17 @@ body{
     box-shadow: 5px -1px 12px -5px grey;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.feature-icon{
+    background-color: #F2F5FB;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 6;
+    border-radius: 50%;
+}
+
+.feature-p {
+    color: #54545f;
 }
