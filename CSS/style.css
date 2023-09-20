@@ -35,9 +35,9 @@ body{
 
 .banner-btn{
     text-decoration: none;
-    padding: 15px 38px;
+    padding: 15px 45px;
     color: white;
-    background: linear-gradient(135deg, #7153d9 0%, #5435be 45%, #4526b1 66%);
+    background: linear-gradient(135deg, #7153d9 10%, #5435be 35%, #4526b1 60%);
     border-radius: 40px;
 }
 
@@ -64,4 +64,47 @@ body{
 
 .feature-p {
     color: #54545f;
+    font-size: 20px;
+}
+
+.section-subtitles{
+    color: #7153D9;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.section-title{
+    font-size: 60px;
+    font-weight: 450;
+}
+
+.section-text{
+    font-size: 24px;
+    font-weight: 400;
+    color: #54545f;
+}
+
+.feature-title2{
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.feature-p2{
+    font-size: 18px;
+    color: #54545f;
+}
+
+.feature-list2{
+    list-style: none;
+}
+
+.feature-list2 li::before {
+    content: "\2022";
+    color: #4526b1;
+    font-weight: bold;
+    display: inline;
+    font-size: 50px;
+    width: 1em;
+    margin-left: -1em;
+    padding-inline: 3%;
 }
