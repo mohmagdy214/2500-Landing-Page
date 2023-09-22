@@ -173,3 +173,39 @@ body{
 .section-white-text{
     font-size: 18px;
 }
+
+.boost-img2{
+    margin-top: -130px;
+    margin-left: -150px;
+}
+
+.section-subtitles3{
+    color: #7153D9;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 8px;
+}
+
+.section-text3{
+    font-size: 21px;
+    font-weight: 400;
+    color: #8d8e99;
+}
+
+.section-text4{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #54545f;
+}
+
+.boost-features{
+    font-size: 21px;
+    font-weight: 500;
+    color: #1c1c1c;
+}
+
+.icon-feature2{
+    padding-top: 28px;
+    padding-bottom: 31px;
+}
