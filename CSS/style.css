@@ -2,6 +2,12 @@ body{
     font-family: 'Jost', sans-serif;
 }
 
+.navbar-logo{
+    width: 120px;
+    height: 30px;
+    background-color: #4526B1;
+}
+
 .bg-banner{
     background-color: #E9EDF4;
 }
@@ -20,6 +26,7 @@ body{
     color: #7153D9;
     font-size: 24px;
     font-weight: 500;
+    letter-spacing: 8px;
 }
 
 .banner-title{
@@ -71,6 +78,13 @@ body{
     color: #7153D9;
     font-size: 18px;
     font-weight: 500;
+}
+
+.section-subtitles2{
+    color: #7153D9;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 8px;
 }
 
 .section-title{
@@ -128,4 +142,34 @@ body{
 .service-card-title a{
     text-decoration: none;
     color: black;
+}
+
+.mysection{
+    background-color: #4526B1;
+    color: white;
+}
+
+.section-btn-white{
+    text-decoration: none;
+    padding: 15px 45px;
+    color: #1c1c1c;
+    background: #e2c4ff;
+    border-radius: 27px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.section-white-title{
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 8px;
+}
+
+.section-white-banner{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.section-white-text{
+    font-size: 18px;
 }
