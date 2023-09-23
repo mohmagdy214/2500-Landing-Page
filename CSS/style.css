@@ -2,10 +2,14 @@ body{
     font-family: 'Jost', sans-serif;
 }
 
-.navbar-logo{
-    width: 120px;
-    height: 30px;
-    background-color: #4526B1;
+.navbar-brand{
+    font: 15px bold;
+    color: rgba(102, 51, 153, 0.749);
+}
+
+.navbar-brand span{
+    font: 70px bold ;
+    color: #4426b1;
 }
 
 .bg-banner{
@@ -208,4 +212,20 @@ body{
 .icon-feature2{
     padding-top: 28px;
     padding-bottom: 31px;
+}
+
+.blog-subtitles{
+    color: #7153D9;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.blog-title{
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.blog-text{
+    font-size: 18px;
+    color: #54545f;
 }
